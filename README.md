@@ -6,7 +6,7 @@ Ubuntu:
 `apt install gettext`
 ### Installation on ubuntu 20.4 - packages had incompatibility just the incompatibilities resolved..
 
-`git clone https://github.com/AbuAliAmin/atlas.git`
+`git clone https://github.com/MathStat27/atlas.git`
 
 `python3 -m venv .venv && . .venv/bin/activate  && pip3 install wheel && pip3 install -r requirements_dev.txt`
 
